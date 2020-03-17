@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/MSTECHSOLUTION/mslearn-tailspin-spacegame-web/_apis/build/status/gshakir125.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/MSTECHSOLUTION/mslearn-tailspin-spacegame-web/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
